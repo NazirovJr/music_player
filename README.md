@@ -14,9 +14,9 @@
 <div align="center">
    <table align="center" border="0" >
   <tr>
-     <td>![sc1](https://user-images.githubusercontent.com/69512372/152619029-4242604f-abf7-49ef-a174-f7f6ab6bde0f.png)
+     <td><img src ="https://user-images.githubusercontent.com/69512372/152619029-4242604f-abf7-49ef-a174-f7f6ab6bde0f.png" withd="360"/>
 </td>
-    <td>![sc2](https://user-images.githubusercontent.com/69512372/152619018-dd0dc86d-755d-49c4-b03a-0765c7e7b2cf.png)
+    <td><img src = "https://user-images.githubusercontent.com/69512372/152619018-dd0dc86d-755d-49c4-b03a-0765c7e7b2cf.png" withd="360"/>
 </td>
       </tr>
    </table>
